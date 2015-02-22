@@ -4,5 +4,5 @@ All my brews are OpenSource and awesome. So enjoy :)
 
 ### Recipes
 
-*Lemon IPA [./recipes/lemon-ipa.md]
+* Lemon IPA [./recipes/lemon-ipa.md]
 
