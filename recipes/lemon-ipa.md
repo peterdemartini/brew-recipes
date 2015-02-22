@@ -3,16 +3,16 @@
 
 ### Ingredients:
 
--**7 lb** CBW Golden Light
--**1 lb** 2 Row
--**1 lb** Crystal Malt
--**1 oz** Perle Hop Pellets
--**1 oz** Magnum Hop Pellets
--**3 oz** Continental Hop Pellets
--**1 oz** Chinook
--**1 tsp** Irish Moss
--**1 oz** Lemon Peel
--WLP002 White Labs (English Ale) yeast
+* **7 lb** CBW Golden Light
+* **1 lb** 2 Row
+* **1 lb** Crystal Malt
+* **1 oz** Perle Hop Pellets
+* **1 oz** Magnum Hop Pellets
+* **3 oz** Continental Hop Pellets
+* **1 oz** Chinook
+* **1 tsp** Irish Moss
+* **1 oz** Lemon Peel
+* WLP002 White Labs (English Ale) yeast
 
 ### Instructions:
 
