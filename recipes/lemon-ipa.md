@@ -1,5 +1,5 @@
 # Lemon IPA
-**Based off of [Stone IPA](http://www.stonebrewing.com/ipa/)**
+**Based off of [Stone IPA](http://www.stonebrewing.com/ipa/) clone**
 
 ### Ingredients:
 
@@ -12,7 +12,7 @@
 * **1 oz** Chinook
 * **1 tsp** Irish Moss
 * **1 oz** Lemon Peel
-* WLP002 White Labs (English Ale) yeast
+* Wyeast 1968 London ESB
 
 ### Instructions:
 
@@ -31,7 +31,8 @@
 13. Add Chinook hops
 14. Ferment at 68°
 
-**O.G.**: 1052 (adjusted for 78°)
+**O.G.**: 1.052 (adjusted for 78°)
+**F.G.**: 1.012 (adjusted for 68˚)
 
 
 
