@@ -32,6 +32,7 @@
 14. Ferment at 68°
 
 **O.G.**: 1.052 (adjusted for 78°)
+
 **F.G.**: 1.012 (adjusted for 68˚)
 
 
